@@ -57,7 +57,7 @@ python -m pytest -v -k "test_name" --html=reports/report.html
 ```
 
 ## Test Scenarios
-
+https://demowebshop.tricentis.com/books
 1. User Registration with Edge Validation
    - Tests email format validation
    - Tests password mismatch validation
